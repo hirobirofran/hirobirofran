@@ -4,6 +4,7 @@
 
 * [Google Cloud Skills Boost 公開プロフィール](https://www.cloudskillsboost.google/public_profiles/86fe6811-8664-458b-9c12-31fbd93b713b)
 * [Credly (Acclaim) 公開プロフィール](https://www.credly.com/users/username.5fbb811b)
+    * Google Cloud、Snowflake
 * [OSS-DB技術者認定資格 Silver（OSS-DB Silver）認定](https://ma.educo-j.or.jp/d/EID900001715/yr5anr9knq)
 
 ### 学習・興味関心 (Learning & Interests)
