@@ -71,3 +71,9 @@
 * チケット管理: JIRA, Trac, Redmine, Backlog
 * ドキュメンテーション・情報共有: Confluence, Wiki (Pukiwiki) 等
 * 開発ツール: Eclipse, VS Code, Maven, CheckStyle, FindBugs 等
+
+---
+
+**より詳細な職務経歴やスキルについては、以下のLinkedInプロフィールをご覧ください。**
+
+* [LinkedIn プロフィール](https://www.linkedin.com/in/博行-藤野-8273b9255)
