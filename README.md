@@ -42,9 +42,16 @@
 * Windows Server 構築・運用経験
 * ネットワーク基礎知識 (TCP/IP, HTTP, DNS, LB, ファイアウォール等)
 * コンテナ技術: Docker, Kubernetes (主にGKE) の利用経験
-* IaC (Infrastructure as Code): Deployment Manager の検証利用経験 (Terraform は学習経験あり)
+* IaC (Infrastructure as Code): Deployment Manager の検証利用経験、Terraform は実務経験あり
 * CI/CD: Jenkins, Cloud Build等の利用経験
 * 監視: Hinemos, Zabbix, Monit 等
+
+**生成AI活用（Utilizing Generative AI）:**
+* **Gemini Webアプリ:** 業務全般活用
+* **Gemini Cloud Assist:** Google Cloudインフラ支援活用
+* **Asana AI:** Asanaタスク支援活用
+* **Gemini CLI:** 開発支援活用
+* **GitHub Copilot PR Review:** 開発支援活用
 
 **プログラミング言語 (Programming Languages):**
 * **Python:** データ処理、バッチ開発、パイプライン構築、テストコード等 (実務 約7年)
@@ -69,7 +76,7 @@
 
 **バージョン管理・その他 (Version Control & Others):**
 * Git / GitHub / BitBucket / Subversion / VSS / CVS
-* チケット管理: JIRA, Trac, Redmine, Backlog
+* チケット管理: JIRA, Trac, Redmine, Backlog、Asana
 * ドキュメンテーション・情報共有: Confluence, Wiki (Pukiwiki) 等
 * 開発ツール: Eclipse, VS Code, Maven, CheckStyle, FindBugs 等
 
